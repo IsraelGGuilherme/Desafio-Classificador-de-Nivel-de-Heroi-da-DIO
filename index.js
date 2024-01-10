@@ -2,7 +2,6 @@ let nickname = "Israel"
 let heroPoints = 10050
 let nivel = null
 
-
 switch (true) {
     case heroPoints <= 2000:
         nivel = "Ferro"
